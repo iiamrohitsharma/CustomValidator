@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ex = CustomValidator.Extensions.ExceptionHelper;
+using Ex = CustomValidator.Helpers.ExceptionHelper;
 
 namespace CustomValidator.Extensions
 {

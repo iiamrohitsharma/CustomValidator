@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using CustomValidator.Extensions.Deque;
-using Ex = CustomValidator.Extensions.ExceptionHelper;
+using Ex = CustomValidator.Helpers.ExceptionHelper;
 
 namespace CustomValidator.Extensions
 {
